@@ -1,7 +1,6 @@
 ### Hello. Im Shaune. :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImShaune)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImShaune&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImShaune&show_icons=true&theme=synthwave)
 <!--
 **ImShaune/ImShaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
