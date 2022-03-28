@@ -1,8 +1,8 @@
 ## Hello. Im Shaune. ⚛️
 
-<h2>
+<h3>
   I a'm a full stack trainee developer based in Argentina with a passion for designing and coding stuff. He also likes solving real life problems through code.
-</h2>
+</h3>
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImShaune&show_icons=true&theme=tokyonight)
@@ -18,12 +18,14 @@
 </div>
 
 
+
+
 <div> 
   <a href="https://www.linkedin.com/in/nahuel-paz-183783173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
 <!--
 **ImShaune/ImShaune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
