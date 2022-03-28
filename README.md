@@ -1,4 +1,9 @@
-### Hello. Im Shaune. :)
+### Hello. Im Shaune. ⚛️
+
+<p>
+  I a'm a full stack trainee developer based in Argentina with a passion for designing and coding stuff. He also likes solving real life problems through code.
+</p>
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImShaune&show_icons=true&theme=tokyonight)
 <!--
