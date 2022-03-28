@@ -1,8 +1,8 @@
-### Hello. Im Shaune. ⚛️
+## Hello. Im Shaune. ⚛️
 
-<p>
+<h2>
   I a'm a full stack trainee developer based in Argentina with a passion for designing and coding stuff. He also likes solving real life problems through code.
-</p>
+</h2>
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImShaune&show_icons=true&theme=tokyonight)
@@ -18,7 +18,7 @@
 </div>
 
 
-div> 
+<div> 
   <a href="https://www.linkedin.com/in/nahuel-paz-183783173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
