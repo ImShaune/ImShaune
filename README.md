@@ -4,7 +4,12 @@
   I am a full stack trainee developer based in Argentina with a passion for designing and coding stuff. :)
 </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImShaune&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImShaune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <a href="https://github.com/QU3B1M">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImShaune&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImShaune&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
