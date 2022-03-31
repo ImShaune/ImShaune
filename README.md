@@ -2,7 +2,7 @@
   <h1> Hello there. I’m Shaune. ⚛️ </h1>
 
   <h3>
-    I am a full stack trainee developer based in Argentina with a passion for designing and coding stuff. :)
+    I am a full stack trainee developer based in Argentina with a passion for coding stuff. :)
   </h3>
 </div>
 <div>
