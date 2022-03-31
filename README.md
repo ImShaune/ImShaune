@@ -1,9 +1,10 @@
-## Hello there. I’m Shaune. ⚛️
+<div align="center">
+  ## Hello there. I’m Shaune. ⚛️
 
-<h3>
-  I am a full stack trainee developer based in Argentina with a passion for designing and coding stuff. :)
-</h3>
-
+  <h3>
+    I am a full stack trainee developer based in Argentina with a passion for designing and coding stuff. :)
+  </h3>
+</div>
 <div>
     <a href="https://github.com/QU3B1M">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImShaune&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
