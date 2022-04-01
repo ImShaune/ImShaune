@@ -7,7 +7,7 @@
 </div>
 <div>
     <a href="https://github.com/ImShaune">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImShaune&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/api?username=ImShaune&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImShaune&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/></a>
   </div>
 
@@ -22,7 +22,7 @@
 <img align="center" alt="Devi-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Devi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp
-<a align="right"  href="https://www.linkedin.com/in/nahuel-paz-183783173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a align="right"  href="https://www.linkedin.com/in/nahuel-paz-183783173/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a> 
 </div>
 
  ##
