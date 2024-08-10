@@ -2,7 +2,7 @@
   <h1> Hello there. I’m Shaune. ⚛️ </h1>
 
   <h3>
-    I am a full stack trainee developer based in Argentina who enjoys wasting my time playing video games, coding stuff, and starting projects I may never finish. ¯\_(ツ)_/¯
+    I am a full stack trainee dev based in Argentina who enjoys wasting my time playing video games, coding stuff, and starting projects I may never finish. ¯\_(ツ)_/¯
   </h3>
 </div>
 <div>
